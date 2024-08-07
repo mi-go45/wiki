@@ -87,6 +87,7 @@ hhhhhhhhho.hoohhhhho.hoooooho.hoooooho.ohhho.hhho.Ho!o.ohhho.Hhho.ho!!!!!!!!
 （ちなみにこの垢はこれ用にわざわざ作ったからメールとかされても反応できないので、ご了承。）
 ![image][https://github.com/mi-go45/wiki/blob/9fcf682d415e2762c3753603afc73fce48b35c2c/xa.gif]
 
+## ・教典
 ### 1.私は全知全能、容姿端麗、成績優秀、スポーツ万能、文武両道なレンジ様を信じます。
 ### 1.5 ,朝はラーメンかご飯以外食べてはいけません。
 ### 1.589,成績最悪、頭脳崩壊、スポーツ万能（笑）な副会長であるすみをさげすみますｗｗ
@@ -147,7 +148,7 @@ hhhhhhhhho.hoohhhhho.hoooooho.hoooooho.ohhho.hhho.Ho!o.ohhho.Hhho.ho!!!!!!!!
 ### 35.また、教祖さまが許した場合のみ、これらを破ってもよい。
 
 
-
+## ・その他
  ☆New advertisement image ☆
 ![広告](xa.gif)
 ↑怪しすぎる広告　最後のビックリマークは不要です！  ↑怪しく、怪しく、さらに怪しく
