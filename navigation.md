@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](logo.png)(index.md)
 
 [このWikiについて](about.md)
 [レンジ教典](range.md)
