@@ -1,4 +1,4 @@
-# MiggoWiki
+![logo](logo.png)
 
 [このWikiについて](about.md)
 [レンジ教典](range.md)
