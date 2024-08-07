@@ -1,1 +1,2 @@
-hbj
+# MiggoWiki/ミゴウィキ
+![logo](biglogo.png)
