@@ -1,4 +1,5 @@
 # レンジ教典 
+![広告](xa.gif)
 
 そこのおまえ！
 ヤリモクで来たなら今すぐ帰れ！
@@ -25,7 +26,9 @@
 
 ######  憂鬱なテーマ
 このドキュメントにはユーザーが憂鬱になるようなテーマが含まれている可能性があります。
-![image][https://github.com/mi-go45/wiki/blob/9fcf682d415e2762c3753603afc73fce48b35c2c/xa.gif]
+![広告](xa.gif)
+###### 当サイトはMiggohohovakiaから広告の提供を受けています。
+
 
 
 
@@ -61,9 +64,7 @@
 
 
 
-![image][https://github.com/mi-go45/wiki/blob/9fcf682d415e2762c3753603afc73fce48b35c2c/xa.gif]
-
-
+![広告](xa.gif)
 
 
 
@@ -136,7 +137,7 @@ hhhhhhhhho.hoohhhhho.hoooooho.hoooooho.ohhho.hhho.Ho!o.ohhho.Hhho.ho!!!!!!!!
 ### 29.レンジ商会の国はすべて帝国に連合されます。国民には基本的条件が与えられます。
 ### 29.5, ちなみにさきち連合帝国はlocalerのものですのよ
 歯向かってきたらハム買っておけと命令をしよう。
-![image][https://github.com/mi-go45/wiki/blob/9fcf682d415e2762c3753603afc73fce48b35c2c/xa.gif]
+![広告](xa.gif)
 ### 30.最後に。レンジ商会はただの怪しい宗教団体であるということを忘れないように。といい他の宗教を勧めてくる人には関わらないようにしましょう←最後じゃねぇｗｗｗｗ
 
 ### 31.玄米は食わないこと
@@ -148,7 +149,7 @@ hhhhhhhhho.hoohhhhho.hoooooho.hoooooho.ohhho.hhho.Ho!o.ohhho.Hhho.ho!!!!!!!!
 
 
  ☆New advertisement image ☆
-![image][https://github.com/mi-go45/wiki/blob/9fcf682d415e2762c3753603afc73fce48b35c2c/xa.gif]
+![広告](xa.gif)
 ↑怪しすぎる広告　最後のビックリマークは不要です！  ↑怪しく、怪しく、さらに怪しく
 ・入れんのか（）もう学校垢で入ってもいいかな（笑）　（↑これも同じく、Miggo）
 ・ほんとに入れたwwwwwww
@@ -156,7 +157,7 @@ hhhhhhhhho.hoohhhhho.hoooooho.hoooooho.ohhho.hhho.Ho!o.ohhho.Hhho.ho!!!!!!!!
 ・もコードってなに　ビックリマークもクラスのコードに入るのかってこと←そ　　いや　ちがうで　怪しい広告感出したかっただけ　おｋあり～
 ・いや入れて草
 
-![image][https://github.com/mi-go45/wiki/blob/9fcf682d415e2762c3753603afc73fce48b35c2c/xa.gif]
+![広告](xa.gif)
 あ、言うの忘れてた。
 ・レンジ商会信者は、他の宗教と掛け持ちができます。
 ←
@@ -218,7 +219,8 @@ A.アナルです。(小泉構文)
 チャクウィキってなんぞや？
 おお　結構ええサイトやんけ
 だから馬鹿阿呆ばかぁぁ
-![image][https://github.com/mi-go45/wiki/blob/9fcf682d415e2762c3753603afc73fce48b35c2c/xa.gif]
+![広告](xa.gif)
+
 ちなみに：
 さきち連合帝国の国民食
 「アーホーバーガー」
