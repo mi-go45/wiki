@@ -1,4 +1,5 @@
-# MiggoWiki/ミゴウィキ　ホーム
+# MiggoWiki/ミゴウィキ
+## ホーム
 ![logo](biglogo.png)
 ## 世界一ふぉっふぉっふぉっなWiki、ここに爆誕!!
 
