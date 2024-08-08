@@ -4,7 +4,7 @@
 [記事一覧]()
 
 * [レンジ教典](range.md)
-* [テスト](test.md)
-
+* [小林隆夫（実在人物解説）](kobayashi.md)
+* [コヴァヤシ・タッカオー（実在人物からの二次創作）](kovag.md)
 [文句・問い合わせ](contact.md)
 [gimmick:theme](spacelab)
