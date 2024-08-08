@@ -6,4 +6,3 @@
 
 [文句・問い合わせ](contact.md)
 [gimmick:theme](spacelab)
-[gimmick:themechooser](Choose theme)
